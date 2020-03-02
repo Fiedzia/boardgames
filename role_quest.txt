@@ -1,0 +1,40 @@
+Średniowiecze
+
+postacie:
+
+Alchemik
+Aptekarz
+Czarownica
+Grabarz
+Kat
+Koniuszy
+Król
+Kucharz
+Kupiec
+Mnich
+Młynarz
+Ogrodnik
+Pasterz
+Pieśniarz
+Posłaniec
+Rolnik
+Sokolnik
+Szczurołap
+Woźnica
+Zielarz
+Złotnik
+Znachor
+Złodziej
+
+lokacje:
+
+przeszkadzajki:
+
+* używaj tylko czasowników w bezokoliczniku
+* każda wypowiedź zaczyna się od tej samej litery
+* musisz użyć wybranego słowa w każdej wypowiedzi
+* każda wypowiedź musi zawierać przysłowie
+
+
+
+
