@@ -2,31 +2,40 @@
 
 postacie:
 
-Alchemik
-Aptekarz
-Czarownica
-Grabarz
-Kat
-Koniuszy
-Król
-Kucharz
-Kupiec
-Mnich
-Młynarz
-Ogrodnik
-Pasterz
-Pieśniarz
-Posłaniec
-Rolnik
-Sokolnik
-Szczurołap
-Woźnica
-Zielarz
-Złotnik
-Znachor
-Złodziej
+Alchemik Alchemist
+Aptekarz Apothecary
+Cieśla Carpenter
+Cyrulik Barber
+Czarownica Witch
+Grabarz Gravedigger
+Kat Executioner
+Koniuszy Master of the horse
+Król King
+Kucharz Cook
+Kupiec Merchant
+Mnich Monk
+Młynarz Miller
+Myśliwy Hunter
+Ogrodnik Gardener
+Pasterz Shepherd
+Pieśniarz Bard
+Posłaniec Messenger
+Rolnik Farmer
+Sokolnik Falconner
+Szczurołap Ratcatcher
+Woźnica Carter
+Zielarz Herbalist
+Złotnik Gilder
+Złodziej Thief
 
 lokacje:
+
+Ogród ziołowy Herb garden
+Pole Field
+Zamek Castle
+Kuchnia Kitchen
+Studnia Well
+
 
 przeszkadzajki:
 
@@ -36,5 +45,7 @@ przeszkadzajki:
 * każda wypowiedź musi zawierać przysłowie
 
 
+
+zachowania:
 
 
