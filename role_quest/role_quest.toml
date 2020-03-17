@@ -1,0 +1,137 @@
+[[theme]]
+name = "Medieval"
+name_pl = "Średniowiecze"
+
+    [[theme.profession]]
+    name="Alchemist"
+    name_pl="Alchemik"
+
+    [[theme.profession]]
+    name="Apothecary"
+    name_pl="Aptekarz"
+
+    [[theme.profession]]
+    name="Carpenter"
+    name_pl="Cieśla"
+
+    [[theme.profession]]
+    name="Barber"
+    name_pl="Cyrulik"
+
+    [[theme.profession]]
+    name="Witch"
+    name_pl="Czarownica"
+
+    [[theme.profession]]
+    name="Gravedigger"
+    name_pl="Grabarz"
+
+    [[theme.profession]]
+    name="Executioner"
+    name_pl="Kat"
+
+    [[theme.profession]]
+    name="Master of the horse"
+    name_pl="Koniuszy"
+
+    [[theme.profession]]
+    name="King"
+    name_pl="Król"
+
+    [[theme.profession]]
+    name="Cook"
+    name_pl="Kucharz"
+
+    [[theme.profession]]
+    name="Merchant"
+    name_pl="Kupiec"
+
+    [[theme.profession]]
+    name="Monk"
+    name_pl="Mnich"
+
+    [[theme.profession]]
+    name="Miller"
+    name_pl="Młynarz"
+
+    [[theme.profession]]
+    name="Hunter"
+    name_pl="Myśliwy"
+
+    [[theme.profession]]
+    name="Gardener"
+    name_pl="Ogrodnik"
+
+    [[theme.profession]]
+    name="Shepherd"
+    name_pl="Pasterz"
+
+    [[theme.profession]]
+    name="Bard"
+    name_pl="Pieśniarz"
+
+    [[theme.profession]]
+    name="Messenger"
+    name_pl="Posłaniec"
+
+    [[theme.profession]]
+    name="Farmer"
+    name_pl="Rolnik"
+
+    [[theme.profession]]
+    name="Falconner"
+    name_pl="Sokolnik"
+
+    [[theme.profession]]
+    name="Ratcatcher"
+    name_pl="Szczurołap"
+
+    [[theme.profession]]
+    name="Carter"
+    name_pl="Woźnica"
+
+    [[theme.profession]]
+    name="Herbalist"
+    name_pl="Zielarz"
+
+    [[theme.profession]]
+    name="Gilder"
+    name_pl="Złotnik"
+
+    [[theme.profession]]
+    name="Thief"
+    name_pl="Złodziej"
+
+
+[[theme.locations]]
+name = "Herb garden"
+name_pl = "Ogród ziołowy"
+
+[[theme.locations]]
+name = "Field"
+name_pl = "Pole"
+
+[[theme.locations]]
+name = "Castle"
+name_pl = "Zamek"
+
+[[theme.locations]]
+name = "Kitchen"
+name_pl = "Kuchnia"
+
+[[theme.locations]]
+name = "Well"
+name_pl = "Studnia"
+
+
+#przeszkadzajki:
+#
+#* używaj tylko czasowników w bezokoliczniku
+#* każda wypowiedź zaczyna się od tej samej litery
+#* musisz użyć wybranego słowa w każdej wypowiedzi
+#* każda wypowiedź musi zawierać przysłowie
+#
+#
+#
+#zachowania:
+#
